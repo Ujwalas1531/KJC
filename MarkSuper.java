@@ -16,6 +16,6 @@ class MarkSuper
      public static void main(String args[])
      {
            Teacher t1 = new Teacher();  Create a Teacher object
-    	 abhnvvvvvv
+    	 abhnvvvvvv  
      }
 }
